@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Pizza Maritza</string>
+    <string name="Registrar">Sign Up</string>
+    <string name="ingresar">Sign In</string>
+</resources>
